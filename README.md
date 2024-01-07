@@ -29,7 +29,7 @@ This repository presents a comprehensive case study focusing on E-commerce custo
 
 ## Repository Contents
 
-- **Data/ :** Contains raw and integrated datasets.
-- **Reports/ :** Comprehensive reports summarizing the project workflow
+- **Data :** Contains raw and integrated datasets.
+- **Report :** Comprehensive reports summarizing the project workflow
 
 This project is a collaborative effort leveraging the strengths of SAS e-Miner, Talend Data Integration, and Talend Data Prep to derive meaningful insights and drive informed decision-making in the dynamic realm of E-commerce customer behavior.
