@@ -13,7 +13,7 @@ This repository presents a comprehensive case study focusing on E-commerce custo
 - **Talend Data Prep:**
   - Talend Data Prep contributes to the project by addressing data quality concerns. It enables the removal of errors and rectification of inconsistencies within the dataset, ensuring that the input to SAS e-Miner is accurate and reliable.
 
-The documentation for all these tools are explained more in depth in the case study report located in the Report folder.
+The documentation for all these tools are explained more in depth in the case study report located in the Report folder, which includes the methodology for each process, as well as the results and analysis of the contents.
 
 ## Project Workflow
 
