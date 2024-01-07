@@ -33,3 +33,7 @@ This repository presents a comprehensive case study focusing on E-commerce custo
 - **Report :** Comprehensive reports summarizing the project workflow
 
 This project is a collaborative effort leveraging the strengths of SAS e-Miner, Talend Data Integration, and Talend Data Prep to derive meaningful insights and drive informed decision-making in the dynamic realm of E-commerce customer behavior.
+
+## Reflection & Learning Outcome
+
+This case study taught me a lot about analyzing data in e-commerce. I used tools like SAS e-Miner, Talend Data Integration, and Talend Data Prep to understand customer behavior. I learned to make decision trees and predict if customers might stop using the service. Fixing mistakes in the data was important, and combining different datasets helped see the whole picture. Figuring out what the data tells us was not always easy, but it showed me the value of good data for making smart business decisions. Overall, it was a useful experience, and I now feel more confident in using these tools for future projects.
